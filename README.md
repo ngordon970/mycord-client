@@ -58,14 +58,6 @@ Optional flags:
 
 --quiet — disables mention notifications and bell sounds
 
-Notes
-
-This repository is a sanitized version of a course project.
-
-The server implementation and assignment instructions are not included.
-
-The focus of this project is systems programming concepts such as networking, concurrency, and protocol design.
-
 Author
 
 Noah Gordon
